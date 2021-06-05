@@ -1,0 +1,72 @@
+.abs-center-x {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.colorlogo-1{
+ font-size: 30px;
+ font-family: 'Julius Sans One', sans-serif;
+}
+
+#nave{
+    position: relative;
+}
+
+#nave .overlay{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: white;
+    background-color: rgba(65, 64, 64, 0.3);
+}
+
+#nave .overlay .container,
+#nave .overlay .row {
+    height: 100%;
+    /*padding-top: 150px;*/
+}
+  #igm{
+    height: 100%;
+  }
+
+#footer{
+  /*  background-color:#0b311c ;
+    color: white;*/
+ color: #706451 ;
+}
+
+#footer a, #footer h5, #footerDivider a{
+    color: #584e3d;
+    text-decoration: none;
+}
+
+#footerDivider{
+    background-color: #cab89d ;
+}
+.frase{
+    color: rgb(68, 63, 63);
+    font-size: 40px;
+ font-family: 'Julius Sans One', sans-serif;
+
+}
+.frase2{
+    color: rgb(90, 88, 88);
+    font-size: 30px;
+ font-family: 'Julius Sans One', sans-serif;
+
+}
+.fondo{
+    background-color: rgb(238, 248, 229);
+}
+.mini{
+    font-size: 12px;
+    color: #584e3d; 
+}
+.let{
+        color: rgb(19, 17, 17);
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
