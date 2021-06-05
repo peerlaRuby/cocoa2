@@ -9,16 +9,12 @@
         </div>
       </div>
     </div>
-
-
     <div class="card">
       <img class="card-img-bottom" src="imagenes/2.jpg" alt="Card image cap">
       <div class="card-body">
         <p class="card-text"><small class="text-muted">Posted by @CocoaOfficial instagram </small></p>
       </div>
     </div>
-
-
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
